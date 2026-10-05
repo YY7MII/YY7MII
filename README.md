@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on making a 100% python gamespy server
 - 🌱 I’m currently learning **C#** | **JS** | **C++**
-- 📫 How to reach me: [thexgamelord@hotmail.com](mailto:thexgamelord@hotmail.com)
+- 📫 How to reach me: [yk2saucy@gmail.com](mailto:yk2saucy@gmail.com)
 
 
 <!--
